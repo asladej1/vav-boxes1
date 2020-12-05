@@ -1,0 +1,49 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>00006.JPG</filename>
+	<path>/my-project-name/00006.JPG</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1272</width>
+		<height>845</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>VAV Boxes</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>399</xmin>
+			<ymin>403</ymin>
+			<xmax>459</xmax>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>VAV Boxes</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>421</xmin>
+			<ymin>676</ymin>
+			<xmax>477</xmax>
+			<ymax>732</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>VAV Boxes</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>823</xmin>
+			<ymin>784</ymin>
+			<xmax>888</xmax>
+			<ymax>833</ymax>
+		</bndbox>
+	</object>
+</annotation>
