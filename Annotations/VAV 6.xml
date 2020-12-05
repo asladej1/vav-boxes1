@@ -1,0 +1,61 @@
+<annotation>
+	<folder>vav-boxes</folder>
+	<filename>VAV 6.JPG</filename>
+	<path>/vav-boxes/VAV 6.JPG</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1259</width>
+		<height>799</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>VAV Box</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>958</xmin>
+			<ymin>218</ymin>
+			<xmax>1001</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>VAV Box</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>1036</xmin>
+			<ymin>308</ymin>
+			<xmax>1070</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>VAV Box</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>894</xmin>
+			<ymin>304</ymin>
+			<xmax>943</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>VAV Box</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>1072</xmin>
+			<ymin>36</ymin>
+			<xmax>1111</xmax>
+			<ymax>94</ymax>
+		</bndbox>
+	</object>
+</annotation>
