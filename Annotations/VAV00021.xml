@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>VAV00021.JPG</filename>
+	<path>/my-project-name/VAV00021.JPG</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>282</width>
+		<height>294</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>VAV</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>109</ymin>
+			<xmax>92</xmax>
+			<ymax>159</ymax>
+		</bndbox>
+	</object>
+</annotation>
